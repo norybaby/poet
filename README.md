@@ -10,7 +10,22 @@ tensorflow  1.x
 运行<br /> 
 ---
 运行训练：python train.py <br /> 
-运行写诗: python poem_server<br /> 
+---
+![image](https://github.com/norybaby/poet/blob/master/doc/train.png)
+
+<br /> <br /> 
+ 
+ 
+运行写诗服务: python poem_server<br /> 
+---
+此步需要先运行训练产生好模型后。
+
+客户端用浏览器访问，效果参照：<br /> 
+---
+![image](https://github.com/norybaby/poet/blob/master/doc/client.png)
+
+<br /> <br /> 
+ 
 
 如有问题欢迎讨论 xiuyunchen@126.com
 
